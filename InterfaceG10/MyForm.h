@@ -189,7 +189,7 @@ namespace InterfaceG10 {
 		Stock^ St = gcnew Stock;
 		this->Hide();
 		St->Show();
-
+		//Commentaire
 	}
 	private: System::Void button5_Click(System::Object^ sender, System::EventArgs^ e) {
 		Statistique^ S = gcnew Statistique;
