@@ -190,7 +190,7 @@ namespace InterfaceG10 {
 		this->Hide();
 		St->Show();
 
-	}
+	} //Skch skch
 	private: System::Void button5_Click(System::Object^ sender, System::EventArgs^ e) {
 		Statistique^ S = gcnew Statistique;
 		this->Hide();
